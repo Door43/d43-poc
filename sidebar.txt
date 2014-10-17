@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[poc:home|Door43 (poc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-poc|d43-poc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-poc/archive/master.zip|d43-poc.zip]]
+
+**Recent Changes**
+{{changes>ns = poc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/poc|Ethnologue data]]
+
